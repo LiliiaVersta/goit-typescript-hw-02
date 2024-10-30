@@ -1,0 +1,15 @@
+.cardImage {
+    height: 200px;
+    width: 300px;
+    object-fit: cover;
+    object-position: center;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.cardDescription {
+    color: white;
+    margin: 0;
+    padding-block: 1em;
+    padding-inline: 1em;
+}

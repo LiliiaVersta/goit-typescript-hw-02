@@ -1,0 +1,19 @@
+.errorContainer {
+    height: 30vh;
+    width: 60vw;
+    margin: 0 auto;
+    border: 1px dashed #64cbff;
+    border-radius: 12px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+
+    place-items: center;
+}
+
+.errorText {
+    text-transform: uppercase;
+    font-size: 1.5em;
+    color: #64ff64;
+}
+
